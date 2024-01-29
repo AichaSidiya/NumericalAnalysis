@@ -7,7 +7,8 @@ This poject is an implementation of multiple numerical methods in Matlab.
 ## Description
 
 <p style="text-align: justify">
-The methods include: 
+The methods include:
+  
 * Euler Method
 * Secant Method
 * Taylor Method
