@@ -1,7 +1,5 @@
 # NumericalAnalysis
 
-<!--Title-->
-# File Processing
 ## Purpose
 <!--Purpose of the project-->
 This poject is an implementation of multiple numerical methods in Matlab.
