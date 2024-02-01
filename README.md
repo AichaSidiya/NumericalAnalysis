@@ -1,4 +1,4 @@
-# NumericalAnalysis
+# Numerical Analysis
 
 ## Purpose
 <!--Purpose of the project-->
